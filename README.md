@@ -18,7 +18,3 @@ Keeper is a lightweight note-taking application built with React. It allows user
 - Node.js (version 14 or above)
 - npm or yarn package manager
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ShindeSharayu24/keeper.git
